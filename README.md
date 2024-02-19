@@ -51,6 +51,9 @@ With just 9 lines it started scanning, connecting to the peripheral, discovering
 
 # Recent Changes
 
+**6.0.2**
+* Migrated to RxSwift 6
+
 **6.0.1**
 * iOS 17 support (#1, #2)
 
